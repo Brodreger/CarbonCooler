@@ -11,3 +11,4 @@ I struggled to get this to work using the client simulator. Please note that som
 
 # Thank You  
 A massive thanks goes Peter who helped me on a Friday afternoon and got it to work on his online simulator!
+Also without his work on https://github.com/petersmythe/investec-swipe-n-save this would have not beeen possible. 
